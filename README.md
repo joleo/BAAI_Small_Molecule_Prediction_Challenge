@@ -1,0 +1,2 @@
+# Concronavirus_Outbreak_Prediction
+智源小分子化合物性质预测挑战赛
